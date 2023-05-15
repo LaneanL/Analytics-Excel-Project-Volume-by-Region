@@ -25,9 +25,10 @@ Summary Page
 ![image](https://github.com/LaneanL/Analytics-Excel-Project-Volume-by-Region/assets/132226337/aa686a72-1cc4-4f6b-abc6-d9dda627679c)
 
 
-				
-						
-						
+
+
+
+**view Analytics Project Volume by Region folder for zip file.						
 						
 						
 						
