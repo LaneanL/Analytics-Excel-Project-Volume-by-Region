@@ -28,7 +28,7 @@ Summary Page
 
 
 
-**view Analytics Project Volume by Region folder for zip file.						
+**view Analytics Project Volume by Region folder for the zip file.						
 						
 						
 						
